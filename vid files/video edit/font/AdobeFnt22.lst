@@ -1,0 +1,49 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AgencyFB-Bold
+FamilyName:AgencyFB
+StyleName:Bold
+FullName:AgencyFB-Bold
+MenuName:AgencyFB
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\SRM\university projects\pps\2nd sem\Reel\vid files\video edit\Font\AgencyFB-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:48072
+FileModTime:1739592345
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,AgencyFB-Bold
+NameArray:0,Win,1,AgencyFB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MoonFlower
+FamilyName:Moon Flower
+StyleName:Regular
+FullName:Moon Flower
+MenuName:Moon Flower
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\SRM\university projects\pps\2nd sem\Reel\vid files\video edit\Font\Moon Flower.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67332
+FileModTime:1630109667
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Moon Flower
+NameArray:0,Win,1,Moon Flower
+%EndFont
+
